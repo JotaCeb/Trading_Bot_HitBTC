@@ -1,0 +1,17 @@
+LEEME
+
+1. Crear cuenta en el exchange HitBTC
+2. Generar una API key
+3. Copiar la API key y la clave de la API key en cada función del HitBTCDriver.cpp
+	Ejemplo teórico : curl -u "apiKey:secretKey" https://api.hitbtc.com/api/3/spot/balance
+	Ejemplo práctico: curl -u hxQscgPuAp4sBh1y4scQ0rik5YhSpeZn:hj9pcr3d0I8-_bdGMBkvyDBjfGKY68jG
+
+4. Por defecto la información será volcada en el archivo BalancesListAux.txt
+
+5. Sólo debe hacer doble click aquí: Proyectobot_V001.exe y ver el resultado en BalancesListAux.txt
+
+ADVERTENCIAS: 
+	El bot no compra ni vende. Sólo ofrece la base sobre la que construir 
+	Toda la información fue extraida de https://api.hitbtc.com/
+	Si no quiere comprar y vender genere una API key que no permita comprar y vender
+	Si quiere comprar y vender extraiga los comandos de https://api.hitbtc.com/ y genere una API key que permita comprar y vender

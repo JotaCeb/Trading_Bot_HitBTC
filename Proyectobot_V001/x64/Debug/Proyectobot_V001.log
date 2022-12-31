@@ -1,0 +1,41 @@
+﻿cl : línea de comandos warning D9007: '/C' requiere '/E, /EP o /P'; opción omitida
+  ExcelData.cpp
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\ExcelData.cpp(17,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  HitBTCDriver.cpp
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(86,21): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(178,44): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(216,44): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(248,44): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(250,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(252,42): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(258,42): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(259,50): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,14): error C2236: token inesperado 'enum'. Compruebe si olvidó un ';'
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,18): error C3432: "Mes": Una declaración adelantada de una enumeración sin ámbito debe tener un tipo subyacente
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,20): error C2059: error de sintaxis: '{'
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,20): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,22): error C2065: 'Ene': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,26): error C2065: 'Feb': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,30): error C2065: 'Mar': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,34): error C2065: 'Abr': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,38): error C2065: 'May': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,42): error C2065: 'Jun': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,46): error C2065: 'Jul': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,50): error C2065: 'Ago': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,54): error C2065: 'Sep': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,58): error C2065: 'Oct': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,62): error C2065: 'Nov': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,66): error C2065: 'Dic': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(300,70): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(308,33): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(309,53): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(314,44): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(322,21): error C2065: 'aux_allText': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(322,35): error C2065: 'aux_allText': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(329,13): error C2065: 'aux_allText': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(329,27): error C2065: 'aux_allText': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(333,19): error C2065: 'aux_allText': identificador no declarado
+C:\Bot\ProyectoBot\Proyectobot_V001\Proyectobot_V001\HitBTCDriver.cpp(334,17): error C2065: 'aux_allText': identificador no declarado
+  TimeCPU.cpp
+  TradingBotMain.cpp
+  Generando código...
